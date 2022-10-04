@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/_CompletedAssets/Scenes/TP3_PIAPC.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
